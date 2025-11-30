@@ -1,9 +1,8 @@
 # Johann Riel S. Esquejo
 
 ### Education
-* **Bachelor of Science in Information Technology (B.S.I.T.)** 2024 -
-    * New Era University
-
+* **Bachelor of Science in Information Technology (B.S.I.T.)** in New Era University 
+  
 ---
 
 ### Skillsets
