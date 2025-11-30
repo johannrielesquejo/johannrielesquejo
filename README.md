@@ -4,17 +4,15 @@
 * **Bachelor of Science in Information Technology (B.S.I.T.)** in New Era University 
   
 ---
+### Certifications
+* [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/8930de313fcb411897ed4b747d61bf78)
 
+---
 ### Skillsets
 * Java
 * SQL
 * HTML
 * CSS
-
----
-
-### Certifications
-* [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/8930de313fcb411897ed4b747d61bf78)
 
 
 
