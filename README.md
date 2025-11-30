@@ -1,11 +1,9 @@
 # Johann Riel S. Esquejo
 
-## Aspiring Information Technology Professional
-
 ### Education
-* Bachelor of Science in Information Technology (B.S.I.T.)
+* Bachelor of Science in Information Technology (B.S.I.T.) 2024 -
     * New Era University
-    * Class of 2024
+    
 
 ### Skillsets
 * Java
