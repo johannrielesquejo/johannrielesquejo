@@ -3,7 +3,7 @@
 ### Education
 * **Bachelor of Science in Information Technology (B.S.I.T.)** in New Era University
 
-  Year 2024 - ***
+  Year 2024 - ****
   
 ---
 ### Certifications
