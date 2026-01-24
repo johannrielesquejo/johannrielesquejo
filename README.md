@@ -11,6 +11,7 @@
 * [Oracle Cloud Infrastructure 2025 Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=40A66ABF59D8BB6672A6736CBF1472CFD2584A8654CAA18DAC3991D0F2E5C1C5)
 * [Oracle Data Platform 2025 Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=51468226BE7B3B719340A70B0C52866C9966E9D5867A66B5216DC9A4FCDC4371)
 * [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6C09F6419BC7EBC789760E8BB0F9973083A3527D0D99CE6A69638F16BF5ACF51)
+* [Gemini Certified University Student](https://edu.google.accredible.com/39b73993-1c2e-4072-a5b9-68cdf6e2cb38#acc.HF4EzcB5)
 
     
 
