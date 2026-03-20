@@ -21,6 +21,7 @@
 * SQL
 * HTML
 * CSS
+* Python
 
 
 
