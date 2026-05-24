@@ -32,7 +32,7 @@ I am Johann Riel S. Esquejo, an Information Technology student with a strong foc
 **Databases & Cloud:**
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![IBM Db2](https://img.shields.io/badge/IBM_Db2-051D43?style=flat-square&logo=ibm&logoColor=white) 
 
-**Tools:** Lucidchart | Pentaho | Git | Jaspersoft Studio | Vercel | Netlify | HTML
+**Tools:** Lucidchart | Pentaho | Git | Jaspersoft Studio | Vercel | | HTML
 
 ---
 
