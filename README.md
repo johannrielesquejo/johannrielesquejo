@@ -39,3 +39,4 @@ I am Johann Riel S. Esquejo, an Information Technology student with a strong foc
 ### 📬 Contact Me
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/johann-esquejo-198278411/)
+* 📧 [rielesquejo@gmail.com](mailto:rielesquejo@gmail.com)
