@@ -30,9 +30,9 @@ I am Johann Riel S. Esquejo, an Information Technology student with a strong foc
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 **Databases & Cloud:**
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![IBM Db2](https://img.shields.io/badge/IBM_Db2-051D43?style=flat-square&logo=ibm&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-**Tools:** Vite | Pentaho | Git | GitHub | Vercel | Netlify
+**Tools:** Lucidchart | Pentaho | Git | Jaspersoft Studio | Vercel | Netlify | HTML
 
 ---
 
