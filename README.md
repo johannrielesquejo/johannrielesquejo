@@ -18,6 +18,7 @@ I am Johann Riel S. Esquejo, an Information Technology student with a strong foc
 * [Oracle Data Platform 2025 Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=51468226BE7B3B719340A70B0C52866C9966E9D5867A66B5216DC9A4FCDC4371)
 * [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6C09F6419BC7EBC789760E8BB0F9973083A3527D0D99CE6A69638F16BF5ACF51)
 * [IBM SkillsBuild Cybersecurity Fundamentals](https://www.credly.com/badges/776a4c17-c7b7-429f-a763-253986f625ff/public_url)
+* [IBM SkillsBuild Data Fundamentals](https://www.credly.com/badges/ad44f1cd-c48d-4cc0-9f27-f3eb800bfd10/public_url)
 * [Cisco Introduction to Modern AI](https://www.credly.com/badges/1fad12a2-3a71-4f3d-b59c-e531c203a164/public_url)
 * [Gemini Certified University Student](https://edu.google.accredible.com/39b73993-1c2e-4072-a5b9-68cdf6e2cb38#acc.HF4EzcB5)
 
