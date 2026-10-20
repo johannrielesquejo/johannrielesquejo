@@ -1,3 +1,4 @@
+Markdown
 <div align="center">
 
   <!-- TELETRAAN-1 DYNAMIC HEADER -->
@@ -29,5 +30,26 @@
   » DIRECTIVE       : Tackling complex logic, building robust system integrations,
                       and crafting clean, functional digital solutions.
 ===================================================================================
-
-📜 CERTIFICATION PROTOCOLSPROTOCOL / CERTIFICATEISSUING MATRIX / AUTHORITYAUTHENTICATION LINKOracle Cloud Infrastructure 2025 AI FoundationsOracle CloudVerify CredentialsOracle Data Platform 2025 Foundations AssociateOracle CloudVerify CredentialsOracle Cloud Infrastructure 2025 FoundationsOracle CloudVerify CredentialsCybersecurity FundamentalsIBM SkillsBuildVerify CredentialsData FundamentalsIBM SkillsBuildVerify CredentialsIntroduction to Modern AICisco Networking AcademyVerify CredentialsGemini Certified University StudentGoogle / AccredibleVerify CredentialsSQL and Relational Databases 101Cognitive ClassVerify CredentialsNoSQL and DBaaS 101Cognitive ClassVerify Credentials
+📜 CERTIFICATION PROTOCOLS
+PROTOCOL / CERTIFICATE	ISSUING MATRIX / AUTHORITY	AUTHENTICATION LINK
+Oracle Cloud Infrastructure 2025 AI Foundations	Oracle Cloud	Verify Credentials
+Oracle Data Platform 2025 Foundations Associate	Oracle Cloud	Verify Credentials
+Oracle Cloud Infrastructure 2025 Foundations	Oracle Cloud	Verify Credentials
+Cybersecurity Fundamentals	IBM SkillsBuild	Verify Credentials
+Data Fundamentals	IBM SkillsBuild	Verify Credentials
+Introduction to Modern AI	Cisco Networking Academy	Verify Credentials
+Gemini Certified University Student	Google / Accredible	Verify Credentials
+SQL and Relational Databases 101	Cognitive Class	Verify Credentials
+NoSQL and DBaaS 101	Cognitive Class	Verify Credentials
+⚡ WEAPONRY & TECH MATRIX (SYS_STACK)
+🧬 Programming Core
+⚡ Frameworks & Mobile Systems
+💾 Matrix Data Vaults & Infrastructure
+🛠️ Tactical Tools & Modeling
+📊 CYBERTRONIAN TELEMETRY MATRIX
+📡 SECURE COMMS TRANSMISSION
+COMM CHANNEL	PROTOCOL ADDRESS
+💼 LinkedIn Command	Johann Esquejo Profile
+📧 Direct Transmission	rielesquejo@gmail.com
+Plaintext
+ [TELETRAAN-1] >> "Till all are one." // END OF TRANSMISSION
