@@ -1,8 +1,8 @@
+Markdown
 <div align="center">
 
-  <!-- TELETRAAN-1 DYNAMIC HEADER -->
-  <img src="[https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=70&lines=TELETRAAN-1+INTERFACE+ONLINE;AUTOBOT+DATASTREAM+INITIALIZED;LOGGING+IN%3A+OPERATIVE+JOHANN](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=70&lines=TELETRAAN-1+INTERFACE+ONLINE;AUTOBOT+DATASTREAM+INITIALIZED;LOGGING+IN%3A+OPERATIVE+JOHANN)..." alt="Teletraan-1 Cybertron Terminal" />
-
+  <!-- STABLE NEON BANNER HEADER -->
+  <h1><code style="color: #00F0FF;">⚡ TELETRAAN-1 // AUTOBOT DATASTREAM ONLINE ⚡</code></h1>
   <p><b>[ ARCHIVAL DATASTREAM // CYBERTRON CORE ]</b></p>
 
   <!-- STATUS BADGES -->
@@ -80,7 +80,7 @@
 
 <div align="center">
 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=johannrielesquejo&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=johannrielesquejo&theme=synthwave&hide_border=false" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannrielesquejo&layout=compact&theme=synthwave&hide_border=false" />
 
 </div>
