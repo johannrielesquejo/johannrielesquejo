@@ -16,7 +16,7 @@
   <br />
 
   <!-- EMBEDDED AUTOBOT HUD DASHBOARD GRAPHIC -->
-  <img src="https://i.ibb.co/3mN9f3R/transformers-autobot-hud.jpg" width="100%" alt="Autobot Teletraan-1 HUD Dashboard" />
+  <img src="./transformers-card.jpg" width="100%" alt="Autobot Teletraan-1 HUD Dashboard" />
 
 </div>
 
