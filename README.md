@@ -103,6 +103,9 @@
 
 <br>
 
-> **[TELETRAAN-1]** >> *"Till all are one."* // END OF TRANSMISSION
+<!-- ANIMATED TYPING SIGN-OFF QUOTE -->
+<a href="https://github.com/johannrielesquejo">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=50&lines=%5BTELETRAAN-1%5D+%3E%3E+%22Till+all+are+one.%22;%5BTELETRAAN-1%5D+%3E%3E+END+OF+TRANSMISSION..." alt="Teletraan-1 Sign Off" />
+</a>
 
 </div>
