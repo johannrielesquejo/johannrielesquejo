@@ -1,39 +1,34 @@
 <div align="center">
 
   <!-- ANIMATED TYPING HEADER -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=70&lines=TELETRAAN-1+INTERFACE+ONLINE;AUTOBOT+DATASTREAM+INITIALIZED;LOGGING+IN%3A+COMMANDER+JOHANN..." alt="Teletraan-1 Cybertron Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=70&lines=TELETRAAN-1+INTERFACE+ONLINE;AUTOBOT+DATASTREAM+INITIALIZED;LOGGING+IN%3A+OPERATIVE+JOHANN..." alt="Teletraan-1 Cybertron Terminal" />
 
-  <p><b>[ ARCHIVAL DATASTREAM // SECTOR 01: CYBERTRON CORE ]</b></p>
+  <p><b>[ ARCHIVAL DATASTREAM // CYBERTRON CORE ]</b></p>
 
   <!-- STATUS BADGES -->
   <p>
     <img src="https://img.shields.io/badge/FACTION-AUTOBOT-00f0ff?style=for-the-badge&logoColor=white&labelColor=0d1117" />
     <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff66?style=for-the-badge&logoColor=white&labelColor=0d1117" />
-    <img src="https://img.shields.io/badge/RANK-PRIME_ARCHITECT-ff0055?style=for-the-badge&logoColor=white&labelColor=0d1117" />
-    <img src="https://img.shields.io/badge/FUEL-ENERGON_CORE-ffaa00?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/PRIMARY_CORE-FULL--STACK_%26_DATA-ff0055?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/FUEL-ENERGON-ffaa00?style=for-the-badge&logoColor=white&labelColor=0d1117" />
   </p>
-
-  <br />
-
-  <!-- EMBEDDED AUTOBOT HUD DASHBOARD GRAPHIC -->
-  <img src="./transformers-card.jpg" width="100%" alt="Autobot Teletraan-1 HUD Dashboard" />
 
 </div>
 
 ---
 
-### 🛡️ AUTOBOT COMMAND MATRIX // OPERATIVE DOSSIER
+### 🛰️ MISSION BRIEFING & OPERATIVE PROFILE
 
-> **[TELETRAAN-1 DATABASE] >> SUBJECT: JOHANN RIEL S. ESQUEJO**
+> **[TELETRAAN-1 DATABASE] >> OPERATIVE DOSSIER: JOHANN RIEL S. ESQUEJO**
 >
-> * **FACTION CALLSIGN:** Johann / Riel
-> * **CYBERTRONIAN CLASS:** Full-Stack Engineer & Data Architecture Operative
-> * **COMMAND ACADEMY:** New Era University (2024 – Present)
-> * **CORE PROTOCOL:** Tackling complex logic, building robust system integrations, and crafting clean, functional digital solutions.
+> * **CALLSIGN:** Johann / Riel
+> * **DESIGNATION:** Full-Stack Engineer & Data Architecture Operative
+> * **ACADEMY BASE:** New Era University (2024 – Present)
+> * **DIRECTIVE:** Tackling complex logic, building robust system integrations, and crafting clean, functional digital solutions.
 
 ---
 
-### 💎 MATRIX OF LEADERSHIP // CERTIFICATION PROTOCOLS
+### 📜 CERTIFICATION PROTOCOLS
 
 | PROTOCOL / CERTIFICATE | ISSUING MATRIX / AUTHORITY | AUTHENTICATION LINK |
 | :--- | :--- | :---: |
@@ -49,7 +44,7 @@
 
 ---
 
-### ⚔️ CYBERTRONIAN ARMAMENT // TECH MATRIX
+### ⚡ WEAPONRY & TECH MATRIX (SYS_STACK)
 
 #### 🧬 Programming Core
 <p>
@@ -81,7 +76,7 @@
 
 ---
 
-### 📊 TELETRAAN-1 TELEMETRY MATRIX
+### 📊 CYBERTRONIAN TELEMETRY MATRIX
 
 <div align="center">
 
@@ -92,7 +87,7 @@
 
 ---
 
-### 🛰️ SPACEBRIDGE COMMS (SECURE CHANNELS)
+### 📡 SECURE COMMS TRANSMISSION
 
 <div align="center">
 
