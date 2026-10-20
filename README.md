@@ -13,6 +13,11 @@
     <img src="https://img.shields.io/badge/FUEL-ENERGON-ffaa00?style=for-the-badge&logoColor=white&labelColor=0d1117" />
   </p>
 
+  <br>
+
+  <!-- MATRIX OF LEADERSHIP GIF -->
+  <img src="./assets/matrix.gif" width="650px" alt="Rodimus Prime Matrix of Leadership" />
+
 </div>
 
 ---
