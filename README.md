@@ -44,4 +44,60 @@
 
 ---
 
-### ⚡ WEAPON
+### ⚡ WEAPONRY & TECH MATRIX (SYS_STACK)
+
+#### 🧬 Programming Core
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+#### ⚡ Frameworks & Mobile Systems
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+#### 💾 Matrix Data Vaults & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/IBM_Db2-051D43?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+#### 🛠️ Tactical Tools & Modeling
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lucidchart-F8691E?style=for-the-badge&logo=lucid&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pentaho-0072C6?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jaspersoft-003366?style=for-the-badge&logo=eclipseide&logoColor=white" />
+</p>
+
+---
+
+### 📊 CYBERTRONIAN TELEMETRY MATRIX
+
+<div align="center">
+
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=johannrielesquejo&theme=synthwave&hide_border=false" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannrielesquejo&layout=compact&theme=synthwave&hide_border=false" />
+
+</div>
+
+---
+
+### 📡 SECURE COMMS TRANSMISSION
+
+<div align="center">
+
+| COMM CHANNEL | PROTOCOL ADDRESS |
+| :--- | :--- |
+| **💼 LinkedIn Command** | [Johann Esquejo Profile](https://www.linkedin.com/in/johann-esquejo-198278411/) |
+| **📧 Direct Transmission** | [rielesquejo@gmail.com](mailto:rielesquejo@gmail.com) |
+
+<br>
+
+> **[TELETRAAN-1]** >> *"Till all are one."* // END OF TRANSMISSION
+
+</div>
