@@ -13,6 +13,11 @@
     <img src="https://img.shields.io/badge/FUEL-ENERGON_CORE-ffaa00?style=for-the-badge&logoColor=white&labelColor=0d1117" />
   </p>
 
+  <br />
+
+  <!-- EMBEDDED AUTOBOT HUD DASHBOARD GRAPHIC -->
+  <img src="./transformers-card.png" width="100%" alt="Autobot Teletraan-1 HUD Dashboard" />
+
 </div>
 
 ---
@@ -24,7 +29,7 @@
 > * **FACTION CALLSIGN:** Johann / Riel
 > * **CYBERTRONIAN CLASS:** Full-Stack Engineer & Data Architecture Operative
 > * **COMMAND ACADEMY:** New Era University (2024 – Present)
-> * **CORE PROTOCOL:** Tackling complex logic, building robust system integrations, and crafting clean, functional digital solutions across the galaxy.
+> * **CORE PROTOCOL:** Tackling complex logic, building robust system integrations, and crafting clean, functional digital solutions.
 
 ---
 
